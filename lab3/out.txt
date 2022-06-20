@@ -1,0 +1,3 @@
+[Shift]Hello [Shift]Wro[Backspace][Backspace]orld[Shift]1[Return]
+[Shift]How are you[Return]
+[Shift]You are lol and kek

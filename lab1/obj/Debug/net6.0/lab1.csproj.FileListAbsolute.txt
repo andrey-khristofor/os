@@ -1,0 +1,15 @@
+D:\Бурса\ОСХристофор\lab1\bin\Debug\net6.0\lab1.exe
+D:\Бурса\ОСХристофор\lab1\bin\Debug\net6.0\lab1.deps.json
+D:\Бурса\ОСХристофор\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+D:\Бурса\ОСХристофор\lab1\bin\Debug\net6.0\lab1.dll
+D:\Бурса\ОСХристофор\lab1\bin\Debug\net6.0\lab1.pdb
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.dll
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\refint\lab1.dll
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.pdb
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+D:\Бурса\ОСХристофор\lab1\obj\Debug\net6.0\ref\lab1.dll
